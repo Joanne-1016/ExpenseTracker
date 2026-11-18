@@ -67,9 +67,13 @@ Example:
 
 ```csv
 date,amount,category,notes
-2026-11-13,80,Transport,Bus
-2026-11-15,250,Shopping,Clothes
-2026-11-15,200,Food,Brunch
+2026-11-03,200.0,Savings,Allowance
+2026-11-05,300.0,Food,Lunch
+2026-11-13,120.0,Transport,Train
+2026-11-15,45.0,Transport,Bus
+2026-11-15,180.0,Food,Dinner
+2026-11-17,150.0,Stationery,Book
+2026-11-18,475.0,Shopping,Clothes
 ```
 
 ## 7. Expense Visualization
