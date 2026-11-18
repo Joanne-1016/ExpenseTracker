@@ -74,10 +74,10 @@ date,amount,category,notes
 
 ## 7. Team Contributions
 
-| Member | Responsibility |
-|---|---|
-| Member A | Expense Input Module |
-| Member B | Data Visualization Module |
+| Member | Student | Responsibility |
+|---|---|---|
+| Member A | 1132937 林郁潔 | Expense Input Module |
+| Member B | 1132935 李芳儀 | Data Visualization Module |
 
 ## 8. Repository
 
