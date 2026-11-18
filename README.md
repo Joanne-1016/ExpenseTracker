@@ -72,7 +72,7 @@ date,amount,category,notes
 2026-11-15,200,Food,Brunch
 ```
 
-## 7.Expense Visualization
+## 7. Expense Visualization
 
 The following pie chart shows the distribution of expenses by category.
 
