@@ -72,7 +72,15 @@ date,amount,category,notes
 2026-11-15,200,Food,Brunch
 ```
 
-## 7. Team Contributions
+## 7.Expense Visualization
+
+The following pie chart shows the distribution of expenses by category.
+
+![Expense Distribution](images/expense_chart.png)
+
+The chart visualizes the total expenses for each category, helping users understand their spending habits.
+
+## 8. Team Contributions
 
 | Member | Student | Responsibility |
 |---|---|---|
