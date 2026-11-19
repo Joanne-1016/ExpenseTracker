@@ -84,13 +84,38 @@ The following pie chart shows the distribution of expenses by category.
 
 The chart visualizes the total expenses for each category, helping users understand their spending habits.
 
-## 8. Team Contributions
+## 8. Git Branch Management and Collaboration
+
+This project uses Git and GitHub for version control and team collaboration. Each team member develops their assigned features in separate branches and merges completed work into the main branch through Pull Requests.
+
+### 8.1 VS Code Git Graph
+
+The following screenshot shows the commit history and branch management in Visual Studio Code, including feature development and merge operations.
+
+![VS Code Git Graph](images/vscode_git_graph.png)
+
+### 8.2 GitHub Network Graph
+
+The following screenshot shows the repository's network graph on GitHub, illustrating the commit and branch history.
+
+![GitHub Network Graph](images/github_network_graph.png)
+
+### 8.3 Collaboration Workflow
+
+1. Create separate feature branches for different tasks.
+2. Implement and test features independently.
+3. Commit and push changes to GitHub.
+4. Create Pull Requests for code integration.
+5. Review and merge completed features into the main branch.
+
+
+## 9. Team Contributions
 
 | Member | Student | Responsibility |
 |---|---|---|
 | Member A | 1132937 林郁潔 | Expense Input Module |
 | Member B | 1132935 李芳儀 | Data Visualization Module |
 
-## 8. Repository
+## 10. Repository
 
 GitHub: https://github.com/Joanne-1016/ExpenseTracker
